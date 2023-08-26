@@ -6,6 +6,18 @@ some useful websites/courses for study
 # Science
 
 # Technology
+## Operating System
+### FreeRTOS
+- [FreeRTOS 从入门到精通](https://zhuanlan.zhihu.com/p/443458699) 
+
+## Integrated Development Environment (IDE)
+### Keil
+- [Keil 系列教程](https://zhuanlan.zhihu.com/p/57700360)
+
+
+### Visual Studio (VS)
+
+### VSCode
 
 # Engineering
 ## Electronics
