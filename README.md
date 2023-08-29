@@ -10,6 +10,12 @@ some useful websites/courses for study
 ### FreeRTOS
 - [FreeRTOS 从入门到精通](https://zhuanlan.zhihu.com/p/443458699) 
 
+### Linux
+- [Linux 就该这么学 第2版](https://www.linuxprobe.com/basic-learning-00.html)
+
+- [鸟哥的 Linux 私房菜](http://cn.linux.vbird.org/linux_basic/linux_basic.php)
+
+
 ## Integrated Development Environment (IDE)
 ### Keil
 - [Keil 系列教程](https://zhuanlan.zhihu.com/p/57700360)
