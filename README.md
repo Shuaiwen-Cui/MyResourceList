@@ -25,6 +25,10 @@ some useful websites/courses for study
 
 ### VSCode
 
+## Programming and More
+- [黑马程序员](https://book.itheima.net/learnline/223)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+
 # Engineering
 ## Electronics
 - [Arduino Cookbook, 3rd Edition](https://learning.oreilly.com/api/v1/continue/9781491903513/) | [Associated Code](https://github.com/bjepson/Arduino-Cookbook-3ed-INO)
