@@ -35,6 +35,12 @@ some useful websites/courses for study
 
 
 # AI
+## Framework
+### Pytorch
+- [Pytorch](https://pytorch.org/)
+
+### Tensorflow
+- [Tensorflow](https://www.tensorflow.org/)
 
 # Perception
 
