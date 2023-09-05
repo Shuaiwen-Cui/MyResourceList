@@ -15,12 +15,12 @@ some useful websites/courses for study, all free here
 ## Posibility and Statistics
 - [Essentials of Posibility and Statistics](https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics)- in Chinese, Visual ML Series 5
 
-
-
 # Science
 
 # Technology
 ## Programming
+### General
+- [黑马程序员教程](https://book.itheima.net/)
 ### C/C++
 - [The_C_Programming_Language_(2nd_Edition_Ritchie_Kernighan)](https://kremlin.cc/k&r.pdf)
 
