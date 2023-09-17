@@ -21,6 +21,7 @@ some useful websites/courses for study, all free here
 ## Programming
 ### General
 - [黑马程序员教程](https://book.itheima.net/)
+- [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 ### C/C++
 - [The_C_Programming_Language_(2nd_Edition_Ritchie_Kernighan)](https://kremlin.cc/k&r.pdf)
 
@@ -49,6 +50,11 @@ some useful websites/courses for study, all free here
 ## Programming and More
 - [黑马程序员](https://book.itheima.net/learnline/223)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
+
+## FrontEnd
+
+## BackEnd
+
 
 # Engineering
 ## Electronics
