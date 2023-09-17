@@ -61,6 +61,10 @@ some useful websites/courses for study, all free here
 
 - [Visualization for Machine Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning) - in Chinese, Visual ML Series 7
 
+- [Hello Algorithm](https://www.hello-algo.com/) - in Chinese
+
+- [Dive Into Deep Learning (En)](https://d2l.ai/) | [Dive Into Deep Learning (CN)](https://zh.d2l.ai/)
+
 ## Framework
 ### Pytorch
 - [Pytorch](https://pytorch.org/)
