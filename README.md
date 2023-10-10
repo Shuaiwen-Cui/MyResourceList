@@ -14,6 +14,7 @@ some useful websites/courses for study, all free here
 
 ## Posibility and Statistics
 - [Essentials of Posibility and Statistics](https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics)- in Chinese, Visual ML Series 5
+- [Gaussian Process Visualization - Hyperparamters Effect](http://smlbook.org/GP/)
 
 # Science
 
