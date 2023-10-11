@@ -64,6 +64,13 @@ some useful websites/courses for study, all free here
 ## Electronics
 - [Arduino Cookbook, 3rd Edition](https://learning.oreilly.com/api/v1/continue/9781491903513/) | [Associated Code](https://github.com/bjepson/Arduino-Cookbook-3ed-INO)
 
+## Hardwares
+- [Hardware Families](https://www.arduino.cc/en/hardware)
+- [IDE](https://www.arduino.cc/en/software)
+- [Arduino Cloud / IOT Cloud](https://cloud.arduino.cc/)
+- [Tutorials](https://www.arduino.cc/en/Tutorial/HomePage)
+- [DOCs](https://docs.arduino.cc/)
+
 
 # Data Science and AI
 ## General
