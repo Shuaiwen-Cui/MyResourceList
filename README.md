@@ -25,6 +25,7 @@ some useful websites/courses for study, all free here
 ## Programming
 ### General
 - [黑马程序员教程](https://book.itheima.net/)
+- [菜鸟编程](https://www.runoob.com/)
 - [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 ### C/C++
 - [The_C_Programming_Language_(2nd_Edition_Ritchie_Kernighan)](https://kremlin.cc/k&r.pdf)
