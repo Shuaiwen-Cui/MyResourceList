@@ -75,6 +75,10 @@ some useful websites/courses for study, all free here
 - [Tutorials](https://www.arduino.cc/en/Tutorial/HomePage)
 - [DOCs](https://docs.arduino.cc/)
 
+## IoT
+- [物联网开发实战](https://time.geekbang.org/column/intro/100063601?utm_campaign=geektime_search&utm_content=geektime_search&utm_medium=geektime_search&utm_source=geektime_search&utm_term=geektime_search&tab=catalog)
+
+
 
 # Data Science and AI
 ## General
